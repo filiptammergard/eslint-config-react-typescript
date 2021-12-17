@@ -2,8 +2,8 @@ module.exports = {
   extends: [
     "@tammergard/eslint-config-base",
     "eslint-config-airbnb",
-    "plugin:eslint-plugin-react/jsx-runtime",
     "plugin:@typescript-eslint/eslint-plugin/recommended",
+    "plugin:eslint-plugin-react/jsx-runtime",
   ],
   rules: {
     "react/require-default-props": "off",
