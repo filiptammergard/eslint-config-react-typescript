@@ -4,7 +4,7 @@ module.exports = {
     "@tammergard/eslint-config-base",
     "eslint-config-airbnb",
     "plugin:@typescript-eslint/eslint-plugin/recommended",
-    "plugin:eslint-plugin-prettier/recommdended",
+    "plugin:eslint-plugin-prettier/recommended",
     "plugin:eslint-plugin-react/jsx-runtime",
   ],
   rules: {
