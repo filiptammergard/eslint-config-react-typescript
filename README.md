@@ -8,11 +8,13 @@ Install this ESLint config together its peer dependencies:
 
 ```bash
 # npm
-npm install @tammergard/eslint-config-react-typescript @tammergard/eslint-config-base eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-prettier --save-dev
+npm install @tammergard/eslint-config-react-typescript eslint --save-dev
 
 # yarn
-yarn add @tammergard/eslint-config-react-typescript @tammergard/eslint-config-base eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-prettier --dev
+yarn add @tammergard/eslint-config-react-typescript eslint --dev
 ```
+
+Then also install all peer dependencies.
 
 ## Usage
 

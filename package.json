@@ -8,7 +8,7 @@
     "review": "yarn install --frozen-lockfile && yarn lint && yarn prettier"
   },
   "devDependencies": {
-    "@tammergard/eslint-config-base": "2.1.1",
+    "@tammergard/eslint-config-base": "2.1.2",
     "@tammergard/prettier-config": "1.4.0",
     "@tammergard/semantic-release-config-npm": "1.0.0",
     "eslint": "8.4.1",
