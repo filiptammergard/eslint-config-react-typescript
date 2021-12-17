@@ -1,5 +1,6 @@
 module.exports = {
   parser: "@typescript-eslint/parser",
+  plugins: ["eslint-plugin-prettier", "eslint-plugin-react"],
   extends: [
     "@tammergard/eslint-config-base",
     "eslint-config-airbnb",
