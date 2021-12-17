@@ -16,6 +16,7 @@ module.exports = {
       },
     ],
     "react/jsx-filename-extension": ["error", { extensions: [".tsx"] }],
+    "react/jsx-props-no-spreading": "off",
     "react/require-default-props": "off",
   },
 }
