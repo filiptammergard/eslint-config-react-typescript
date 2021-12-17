@@ -1,8 +1,8 @@
 module.exports = {
   parser: "@typescript-eslint/parser",
   extends: [
-    "@tammergard/eslint-config-base",
     "eslint-config-airbnb",
+    "@tammergard/eslint-config-base",
     "plugin:@typescript-eslint/eslint-plugin/recommended",
     "plugin:eslint-plugin-prettier/recommended",
     "plugin:eslint-plugin-react/jsx-runtime",
