@@ -416,10 +416,10 @@
     lodash "^4.17.4"
     read-pkg-up "^7.0.0"
 
-"@tammergard/eslint-config-base@2.1.2":
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/@tammergard/eslint-config-base/-/eslint-config-base-2.1.2.tgz#6961bafd51f567786e93590aea69aff55427b50f"
-  integrity sha512-e1Hipwko9YGvOZJL4qRVQ/405UFO9WCwZw0mI6f8CId0/Uiy/U3X336dt4GBxUHTQUEyOPRhS5dIKGQdU9vteA==
+"@tammergard/eslint-config-base@2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@tammergard/eslint-config-base/-/eslint-config-base-2.2.0.tgz#577aeb909c47e5f4bbb868511308ef3a4bef0c98"
+  integrity sha512-KcgW1loxHJeljkB0Q43CloD9hn6G0soSYp9DkCT792zTtwFpux7Ixo+PBA5V4xIJTvZy6suEp9cNZyCQl/Y0xQ==
 
 "@tammergard/prettier-config@1.4.0":
   version "1.4.0"
