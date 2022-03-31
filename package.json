@@ -11,7 +11,11 @@
   "dependencies": {
     "@tammergard/eslint-config-base": "3.0.0",
     "@typescript-eslint/eslint-plugin": "5.17.0",
-    "@typescript-eslint/parser": "5.17.0"
+    "@typescript-eslint/parser": "5.17.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-plugin-jsx-a11y": "6.5.1",
+    "eslint-plugin-react": "7.29.4",
+    "eslint-plugin-react-hooks": "4.4.0"
   },
   "devDependencies": {
     "@tammergard/prettier-config": "1.5.0",
