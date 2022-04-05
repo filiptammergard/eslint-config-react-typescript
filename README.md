@@ -8,10 +8,10 @@ Install this ESLint config together its peer dependencies:
 
 ```bash
 # npm
-npm install @tammergard/eslint-config-react-typescript eslint --save-dev
+npm install @tammergard/eslint-config-react-typescript --save-dev
 
 # yarn
-yarn add @tammergard/eslint-config-react-typescript eslint --dev
+yarn add @tammergard/eslint-config-react-typescript --dev
 ```
 
 Then also install all peer dependencies.
