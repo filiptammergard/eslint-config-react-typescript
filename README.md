@@ -20,7 +20,7 @@ Add the config to your `.eslintrc.js` file:
 
 ```js
 module.exports = {
-  extends: ["@tammergard/eslint-config-react-typescript"],
+	extends: ["@tammergard/eslint-config-react-typescript"],
 }
 ```
 
