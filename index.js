@@ -8,13 +8,6 @@ module.exports = {
 	],
 	rules: {
 		"@typescript-eslint/explicit-module-boundary-types": "off",
-		"react/function-component-definition": [
-			"error",
-			{
-				namedComponents: "arrow-function",
-				unnamedComponents: "arrow-function",
-			},
-		],
 		"react/jsx-filename-extension": ["error", { extensions: [".tsx"] }],
 		"react/jsx-props-no-spreading": "off",
 		"react/require-default-props": "off",
