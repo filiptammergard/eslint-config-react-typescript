@@ -9,14 +9,14 @@
 		"review": "yarn install --frozen-lockfile && yarn format-check && yarn lint"
 	},
 	"dependencies": {
-		"@tammergard/eslint-config-base": "3.0.0",
-		"@typescript-eslint/eslint-plugin": "5.19.0",
-		"@typescript-eslint/parser": "5.19.0",
+		"@tammergard/eslint-config-base": "3.1.1",
+		"@typescript-eslint/eslint-plugin": "5.48.2",
+		"@typescript-eslint/parser": "5.48.2",
 		"eslint-config-airbnb": "19.0.4",
-		"eslint-plugin-import": "2.26.0",
-		"eslint-plugin-jsx-a11y": "6.5.1",
-		"eslint-plugin-react": "7.29.4",
-		"eslint-plugin-react-hooks": "4.4.0"
+		"eslint-plugin-import": "2.27.5",
+		"eslint-plugin-jsx-a11y": "6.7.1",
+		"eslint-plugin-react": "7.32.1",
+		"eslint-plugin-react-hooks": "4.6.0"
 	},
 	"devDependencies": {
 		"@tammergard/prettier-config": "2.0.0",
