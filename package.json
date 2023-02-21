@@ -9,11 +9,10 @@
 		"review": "yarn install --frozen-lockfile && yarn format-check && yarn lint"
 	},
 	"dependencies": {
-		"@tammergard/eslint-config-base": "3.1.1",
+		"@tammergard/eslint-config-base": "3.2.0",
 		"@typescript-eslint/eslint-plugin": "5.53.0",
 		"@typescript-eslint/parser": "5.53.0",
 		"eslint-config-airbnb": "19.0.4",
-		"eslint-plugin-import": "2.27.5",
 		"eslint-plugin-jsx-a11y": "6.7.1",
 		"eslint-plugin-react": "7.32.2",
 		"eslint-plugin-react-hooks": "4.6.0"
