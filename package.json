@@ -5,8 +5,7 @@
 	"scripts": {
 		"format": "prettier --write .",
 		"format-check": "prettier --check .",
-		"lint": "eslint .",
-		"review": "pnpm install --frozen-lockfile && pnpm format-check && pnpm lint"
+		"review": "pnpm install --frozen-lockfile && pnpm format-check"
 	},
 	"dependencies": {
 		"@tammergard/eslint-config-base": "3.2.0",
@@ -20,7 +19,6 @@
 	"devDependencies": {
 		"@changesets/cli": "^2.26.1",
 		"@tammergard/prettier-config": "2.0.0",
-		"eslint": "8.37.0",
 		"prettier": "2.8.7",
 		"typescript": "5.0.2"
 	},
