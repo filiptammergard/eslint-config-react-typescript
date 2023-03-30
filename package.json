@@ -5,6 +5,7 @@
 	"scripts": {
 		"format": "prettier --write .",
 		"format-check": "prettier --check .",
+		"release": "pnpm changeset publish",
 		"review": "pnpm install --frozen-lockfile && pnpm format-check"
 	},
 	"dependencies": {
