@@ -27,17 +27,10 @@
 		"eslint": ">=8.37.0",
 		"prettier": ">=2.8.7"
 	},
-	"main": "index.js",
 	"files": [
 		"index.js"
 	],
-	"publishConfig": {
-		"access": "public"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/filiptammergard/eslint-config-react-typescript.git"
-	},
+	"main": "index.js",
 	"keywords": [
 		"eslint",
 		"config",
@@ -46,10 +39,21 @@
 		"react",
 		"typescript"
 	],
-	"author": "Filip Tammergård <filip+npm@tammergard.se> (https://tammergard.se/)",
-	"license": "MIT",
+	"homepage": "https://github.com/filiptammergard/eslint-config-react-typescript#readme",
 	"bugs": {
 		"url": "https://github.com/filiptammergard/eslint-config-react-typescript/issues"
 	},
-	"homepage": "https://github.com/filiptammergard/eslint-config-react-typescript#readme"
+	"license": "MIT",
+	"author": {
+		"name": "Filip Tammergård",
+		"email": "filip+npm@tammergard.se",
+		"url": "https://tammergard.se"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/filiptammergard/eslint-config-react-typescript.git"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
