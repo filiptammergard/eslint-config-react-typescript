@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@tammergard/eslint-config-base':
-    specifier: 3.2.0
-    version: 3.2.0(@typescript-eslint/parser@5.53.0)(eslint@8.37.0)(prettier@2.8.7)
+    specifier: 4.0.0
+    version: 4.0.0(@typescript-eslint/parser@5.53.0)(eslint@8.37.0)(prettier@2.8.7)
   '@typescript-eslint/eslint-plugin':
     specifier: 5.53.0
     version: 5.53.0(@typescript-eslint/parser@5.53.0)(eslint@8.37.0)(typescript@5.0.2)
@@ -348,17 +348,17 @@ packages:
       '@nodelib/fs.scandir': 2.1.5
       fastq: 1.15.0
 
-  /@tammergard/eslint-config-base@3.2.0(@typescript-eslint/parser@5.53.0)(eslint@8.37.0)(prettier@2.8.7):
-    resolution: {integrity: sha512-ZuxDRGkHtlVi9QoNEQRLDE5Kf73zfr+mLHbsaOauCVTEixJZFRN89nFMw4SFYJc3pXgihii8cqwzJZ0zJkclmQ==}
+  /@tammergard/eslint-config-base@4.0.0(@typescript-eslint/parser@5.53.0)(eslint@8.37.0)(prettier@2.8.7):
+    resolution: {integrity: sha512-qdEQR4UHqIM47XarTAN35FZgJMwV9XEkY9TBEH50puxbYUJgfnMRSrMrS2CUKxU/tK6Zhh8K31GarX15/+D2/A==}
     peerDependencies:
-      eslint: '>=7.32.0'
-      prettier: '>=2.4.1'
+      eslint: '>=8.37.0'
+      prettier: '>=2.8.7'
     dependencies:
       eslint: 8.37.0
       eslint-config-airbnb-base: 15.0.0(eslint-plugin-import@2.27.5)(eslint@8.37.0)
-      eslint-config-prettier: 8.6.0(eslint@8.37.0)
+      eslint-config-prettier: 8.8.0(eslint@8.37.0)
       eslint-plugin-import: 2.27.5(@typescript-eslint/parser@5.53.0)(eslint@8.37.0)
-      eslint-plugin-prettier: 4.2.1(eslint-config-prettier@8.6.0)(eslint@8.37.0)(prettier@2.8.7)
+      eslint-plugin-prettier: 4.2.1(eslint-config-prettier@8.8.0)(eslint@8.37.0)(prettier@2.8.7)
       prettier: 2.8.7
     transitivePeerDependencies:
       - '@typescript-eslint/parser'
@@ -1091,8 +1091,8 @@ packages:
       object.entries: 1.1.6
     dev: false
 
-  /eslint-config-prettier@8.6.0(eslint@8.37.0):
-    resolution: {integrity: sha512-bAF0eLpLVqP5oEVUFKpMA+NnRFICwn9X8B5jrR9FcqnYBuPbqWEjTEspPWMj5ye6czoSLDweCzSo3Ko7gGrZaA==}
+  /eslint-config-prettier@8.8.0(eslint@8.37.0):
+    resolution: {integrity: sha512-wLbQiFre3tdGgpDv67NQKnJuTlcUVYHas3k+DZCc2U2BadthoEY4B7hLPvAxaqdyOGCzuLfii2fqGph10va7oA==}
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'
@@ -1197,7 +1197,7 @@ packages:
       semver: 6.3.0
     dev: false
 
-  /eslint-plugin-prettier@4.2.1(eslint-config-prettier@8.6.0)(eslint@8.37.0)(prettier@2.8.7):
+  /eslint-plugin-prettier@4.2.1(eslint-config-prettier@8.8.0)(eslint@8.37.0)(prettier@2.8.7):
     resolution: {integrity: sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
@@ -1209,7 +1209,7 @@ packages:
         optional: true
     dependencies:
       eslint: 8.37.0
-      eslint-config-prettier: 8.6.0(eslint@8.37.0)
+      eslint-config-prettier: 8.8.0(eslint@8.37.0)
       prettier: 2.8.7
       prettier-linter-helpers: 1.0.0
     dev: false
