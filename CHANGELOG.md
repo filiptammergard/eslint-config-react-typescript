@@ -1,5 +1,11 @@
 # @tammergard/eslint-config-react-typescript
 
+## 3.0.1
+
+### Patch Changes
+
+- 4fb02f9: Publish with provenance.
+
 ## 3.0.0
 
 ### Major Changes
