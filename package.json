@@ -54,6 +54,7 @@
 		"url": "git+https://github.com/filiptammergard/eslint-config-react-typescript.git"
 	},
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+		"provenance": true
 	}
 }
