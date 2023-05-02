@@ -1,5 +1,11 @@
 # @tammergard/eslint-config-react-typescript
 
+## 3.1.0
+
+### Minor Changes
+
+- 942eec6: Extend recommended requiring type checking.
+
 ## 3.0.1
 
 ### Patch Changes
