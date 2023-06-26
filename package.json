@@ -10,8 +10,8 @@
 	},
 	"dependencies": {
 		"@tammergard/eslint-config-base": "4.0.1",
-		"@typescript-eslint/eslint-plugin": "5.60.0",
-		"@typescript-eslint/parser": "5.60.0",
+		"@typescript-eslint/eslint-plugin": "5.60.1",
+		"@typescript-eslint/parser": "5.60.1",
 		"eslint-config-airbnb": "19.0.4",
 		"eslint-plugin-jsx-a11y": "6.7.1",
 		"eslint-plugin-react": "7.32.2",
