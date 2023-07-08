@@ -9,7 +9,7 @@
 		"review": "pnpm install --frozen-lockfile && pnpm format-check"
 	},
 	"dependencies": {
-		"@tammergard/eslint-config-base": "4.0.1",
+		"@tammergard/eslint-config-base": "4.0.2",
 		"@typescript-eslint/eslint-plugin": "5.61.0",
 		"@typescript-eslint/parser": "5.61.0",
 		"eslint-config-airbnb": "19.0.4",
