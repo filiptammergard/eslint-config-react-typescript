@@ -1,5 +1,11 @@
 # @tammergard/eslint-config-react-typescript
 
+## 3.1.2
+
+### Patch Changes
+
+- b1ff816: fix(deps): update dependency eslint-plugin-react to v7.33.2
+
 ## 3.1.1
 
 ### Patch Changes
