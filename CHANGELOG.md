@@ -1,5 +1,11 @@
 # @tammergard/eslint-config-react-typescript
 
+## 4.0.0
+
+### Major Changes
+
+- f68a70d: Upgrade to v6 of @typescript-eslint with type checked configs.
+
 ## 3.1.2
 
 ### Patch Changes
