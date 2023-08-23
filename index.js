@@ -3,8 +3,8 @@ module.exports = {
 		"eslint-config-airbnb",
 		"plugin:eslint-plugin-react/jsx-runtime",
 		"@tammergard/eslint-config-base",
-		"plugin:@typescript-eslint/eslint-plugin/recommended",
-		"plugin:@typescript-eslint/eslint-plugin/recommended-requiring-type-checking",
+		"plugin:@typescript-eslint/eslint-plugin/recommended-type-checked",
+		"plugin:@typescript-eslint/eslint-plugin/stylistic-type-checked",
 	],
 	parser: "@typescript-eslint/parser",
 	parserOptions: {
