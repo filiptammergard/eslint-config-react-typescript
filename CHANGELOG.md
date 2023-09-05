@@ -1,5 +1,11 @@
 # @tammergard/eslint-config-react-typescript
 
+## 4.1.0
+
+### Minor Changes
+
+- 167f03a: Enforce generic type style.
+
 ## 4.0.0
 
 ### Major Changes
