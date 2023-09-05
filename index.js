@@ -11,6 +11,7 @@ module.exports = {
 		project: true,
 	},
 	rules: {
+		"@typescript-eslint/array-type": ["error", { default: "generic" }],
 		"@typescript-eslint/explicit-module-boundary-types": "off",
 		"react/jsx-filename-extension": ["error", { extensions: [".tsx"] }],
 		"react/jsx-props-no-spreading": "off",
