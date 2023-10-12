@@ -1,5 +1,11 @@
 # @tammergard/eslint-config-react-typescript
 
+## 5.0.0
+
+### Major Changes
+
+- 5bb94a5: Migrate to flat config
+
 ## 4.1.0
 
 ### Minor Changes
