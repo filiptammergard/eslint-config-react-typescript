@@ -15,9 +15,8 @@ module.exports = [
 	...compat.extends(
 		"plugin:@typescript-eslint/eslint-plugin/stylistic-type-checked",
 	),
-	tammergardBaseConfig,
+	...tammergardBaseConfig,
 	{
-		files: ["**/*.{ts,tsx}"],
 		rules: {
 			"@typescript-eslint/array-type": ["error", { default: "generic" }],
 			"@typescript-eslint/explicit-module-boundary-types": "off",
