@@ -1,5 +1,11 @@
 # @tammergard/eslint-config-react-typescript
 
+## 5.0.1
+
+### Patch Changes
+
+- 6e5035d: Update tammergard base config."
+
 ## 5.0.0
 
 ### Major Changes
