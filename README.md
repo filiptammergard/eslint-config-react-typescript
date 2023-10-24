@@ -19,12 +19,12 @@ pnpm add @tammergard/eslint-config-react-typescript --save-dev
 
 ## Usage
 
-Add the config to your `.eslintrc.js` file:
+Add the config to your `eslint.config.js` file:
 
 ```js
-module.exports = {
-	extends: ["@tammergard/eslint-config-react-typescript"],
-}
+const tammergardReactTypeScriptConfig = require("@tammergard/eslint-config-react-typescript")
+
+module.exports = [...tammergardReactTypeScriptConfig]
 ```
 
 ## License
